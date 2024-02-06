@@ -4,9 +4,9 @@
   "private": true,
   "engines": {
     "node": "20.11.0",
-    "pnpm": "8.14.1"
+    "pnpm": "8.15.1"
   },
-  "packageManager": "pnpm@8.14.1",
+  "packageManager": "pnpm@8.15.1",
   "main": "dist/src/index.js",
   "scripts": {
     "corepack": "corepack enable pnpm",
