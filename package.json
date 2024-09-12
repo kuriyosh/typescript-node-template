@@ -12,8 +12,8 @@
     "corepack": "corepack enable pnpm",
     "dev": "nodemon",
     "build": "tsc",
-    "lint": "biome check .",
-    "lint:fix": "biome check --write ."
+    "check": "biome check .",
+    "check:fix": "biome check --write ."
   },
   "keywords": [],
   "author": "",
